@@ -1,8 +1,0 @@
-The main function of this GitHub group is to work
-together and help each other learn C++ on a deeper
-level. I chose to use this site as our host 
-primarily because it has the ability to track 
-repositories (public/private/etc) without issues.
-The synchronization appears to be really fast given 
-that it is just handling rather small .cpp files 
-and/or some .txt files as well.
